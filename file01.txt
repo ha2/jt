@@ -1,1 +1,5 @@
-file01.txt 2014-08-14 15:19
+file01.txt
+	created		2014-08-14 15:19
+	modified	2014-08-14 15:22
+	uploaded	2014-08-14 15:40
+	modified	2014-08-14 15:41
